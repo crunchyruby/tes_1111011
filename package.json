@@ -2,6 +2,7 @@
   "dependencies": {
     "events": "^3.3.0",
     "fs": "^0.0.1-security",
+    "nvm": "^0.0.4",
     "path": "^0.12.7",
     "simple-git": "^3.27.0"
   }

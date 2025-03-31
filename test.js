@@ -5,7 +5,7 @@ const git = simpleGit();
 
 const REPO_PATH = path.resolve(__dirname);
 const REMOTE = 'origin';
-const BRANCH = 'master';
+const BRANCH = 'main';
 
 // Function to generate random string
 function generateRandomString(length) {
